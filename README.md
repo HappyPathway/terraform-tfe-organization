@@ -8,9 +8,9 @@ module "tfe_org" {
 }
 ```
 ## Resources Created
-[tfe_organization](https://www.terraform.io/docs/providers/tfe/r/organization.html "tfe_organization")
+[tfe_organization.organization](https://www.terraform.io/docs/providers/tfe/r/organization.html "tfe_organization")
 
-[tfe_organization_token](https://www.terraform.io/docs/providers/tfe/r/organization_token.html "tfe_organization_token")
+[tfe_organization_token.token](https://www.terraform.io/docs/providers/tfe/r/organization_token.html "tfe_organization_token")
 
 ## Variables
 | variable | usage |
