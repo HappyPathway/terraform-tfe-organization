@@ -2,7 +2,7 @@ output "token" {
     value = "${tfe_organization_token.token.token}"
 }
 
-output "id" {
+output "token_id" {
     value = "${tfe_organization_token.token.id}"
 }
 
